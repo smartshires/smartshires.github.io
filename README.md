@@ -7,7 +7,7 @@ and built with [Bootstrap Italia](https://github.com/italia/bootstrap-italia/).
 
 The theme itself is a starting point for a Jekyll-based website. You can refer
 to the [official Jekyll docs](https://jekyllrb.com/docs/) for further details
-on how to install it locally.
+on how to install it locally.-
 
 If you already have `bundler` installed, you can install jekyll and budler gems
 with:
