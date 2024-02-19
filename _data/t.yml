@@ -1,0 +1,63 @@
+---
+## Main icon
+icon: "/assets/images/smart-shires-logo.png"
+
+## Social Card [1200x630]
+social-card: "/assets/images/favicons/social-card.png"
+
+## Site name
+name:
+  en: "PRIN 2022: Smart Shires"
+  it: "PRIN 2022: Smart Shires"
+
+## Site description
+description:
+  en: "Smart Shires PRIN 2022 description"
+  it: "Smart Shires PRIN 2022 description"
+
+## Site author
+author:
+  en: "Digital Transformation Team"
+  it: "Team per la Trasformazione Digitale"
+
+## Social
+social-links:
+  en:
+    linkedin:
+      name: "linkedin"
+      url: "https://www.linkedin.com/groups/9560408/"
+  it:
+    linkedin:
+      name: "linkedin"
+      url: "https://www.linkedin.com/groups/9560408/"
+
+## Labels
+italian-version:
+  en: "Italian version"
+  it: "Versione italiana"
+english-version:
+  en: "English version"
+  it: "Versione inglese"
+cookie-policy-info:
+  en: "This site uses technical, analytics and third-party cookies <br>By continuing to browse, you accept the use of cookies."
+  it: "Questo sito utilizza cookie tecnici, analytics e di terze parti.<br>Proseguendo nella navigazione accetti l’utilizzo dei cookie."
+cookie-policy-accept-btn:
+  en: "Ok"
+  it: "Accetto"
+footer-links:
+  en:
+    privacy-policy:
+      name: "Privacy policy"
+      url: "/en/privacy-policy"
+    cookie-policy:
+      name: "Cookie Policy"
+      url: "/en/cookie-policy"
+  it:
+    privacy-policy:
+      name: "Privacy policy"
+      url: "/it/privacy-policy"
+    cookie-policy:
+      name: "Cookie Policy"
+      url: "/it/cookie-policy"
+
+
