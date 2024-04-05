@@ -8,18 +8,23 @@ permalink: /it/research-units
 
 ### Scientific Board
 
-##### Prof. Lorem Ipsum
+##### Prof. Stefano Ferretti
 Associate Professor
-University of Somewhere
+at University of Urbino
+[Link](https://www.uniurb.it/persone/stefano-ferretti)
 
-##### Prof. Lorem Ipsum
-Associate Professor
-University of Somewhere
+##### Prof. Gabriele D'Angelo
+Assistant Professor
+at University of Bologna
+[Link](https://www.unibo.it/sitoweb/g.dangelo)
 
-##### Prof. Lorem Ipsum
-Associate Professor
-University of Somewhere
+##### Prof. Paolo Giaccone
+Full Professor
+at Polytechnic of Turin
+[Link](https://www.unibo.it/sitoweb/g.dangelo)
 
-##### Prof. Lorem Ipsum
+
+##### Prof. Angelo Furfaro
 Associate Professor
-University of Somewhere 
+at University of Calabria
+[Link](#)
