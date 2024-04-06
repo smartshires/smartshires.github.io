@@ -6,10 +6,8 @@ ref: meeting-agenda
 permalink: /it/meeting-agenda
 ---
 
-Meeting on XX October 2023
+Meeting on 27-28 November 2023
 
-Meeting on XX November 2023
+Meeting on 18 December 2023
 
-Meeting on XX December 2023
-
-Meeting on XX January 2024
+Meeting on 06 February 2024
