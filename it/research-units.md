@@ -8,23 +8,19 @@ permalink: /it/research-units
 
 ### Scientific Board
 
-##### Prof. Stefano Ferretti
-Associate Professor
-at University of Urbino
-[Link](https://www.uniurb.it/persone/stefano-ferretti)
+[Prof. Stefano Ferretti](https://www.uniurb.it/persone/stefano-ferretti) 
 
-##### Prof. Gabriele D'Angelo
-Assistant Professor
-at University of Bologna
-[Link](https://www.unibo.it/sitoweb/g.dangelo)
+Associate Professor at University of Urbino
 
-##### Prof. Paolo Giaccone
-Full Professor
-at Polytechnic of Turin
-[Link](https://www.telematica.polito.it/member/paolo-giaccone/)
+[Prof. Gabriele D'Angelo](https://www.unibo.it/sitoweb/g.dangelo) 
 
+Assistant Professor at University of Bologna
 
-##### Prof. Angelo Furfaro
-Associate Professor
-at University of Calabria
-[Link](#)
+[Prof. Paolo Giaccone](https://www.telematica.polito.it/member/paolo-giaccone/) 
+
+Full Professor at Polytechnic of Turin
+
+[Prof. Angelo Furfaro](#) 
+
+Associate Professor at University of Calabria
+
