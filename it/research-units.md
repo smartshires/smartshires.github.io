@@ -21,7 +21,7 @@ at University of Bologna
 ##### Prof. Paolo Giaccone
 Full Professor
 at Polytechnic of Turin
-[Link](https://www.unibo.it/sitoweb/g.dangelo)
+[Link](https://www.telematica.polito.it/member/paolo-giaccone/)
 
 
 ##### Prof. Angelo Furfaro
