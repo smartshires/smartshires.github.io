@@ -20,7 +20,7 @@ Assistant Professor at University of Bologna
 
 Full Professor at Polytechnic of Turin
 
-[Prof. Angelo Furfaro](#) 
+[Prof. Angelo Furfaro](https://angelo.furfaro.dimes.unical.it/) 
 
 Associate Professor at University of Calabria
 
