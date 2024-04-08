@@ -7,4 +7,6 @@ permalink: /it/thesis-proposals
 ---
 
 - "Container-based network emulation for opportunistic
-networking", PoliTo
+networking" (Politecnico di Torino)
+
+
