@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://0.0.0.0:4000/smartshires/categoria1/Hello-World/</loc>
+<loc>http://0.0.0.0:4000/smartshires/Hello-World/</loc>
 <lastmod>2019-03-01T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/smartshires/categoria1/New-Post/</loc>
+<loc>http://0.0.0.0:4000/smartshires/New-Post/</loc>
 <lastmod>2019-03-01T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/smartshires/categoria2/Nuovo-Post/</loc>
+<loc>http://0.0.0.0:4000/smartshires/Nuovo-Post/</loc>
 <lastmod>2019-03-01T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/smartshires/jekyll/update/welcome-to-jekyll/</loc>
+<loc>http://0.0.0.0:4000/smartshires/welcome-to-jekyll/</loc>
 <lastmod>2023-12-18T17:36:58+01:00</lastmod>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/smartshires/en/about-us</loc>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/smartshires/about/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/smartshires/it/chi-siamo</loc>
@@ -30,9 +27,6 @@
 </url>
 <url>
 <loc>http://0.0.0.0:4000/smartshires/it/cookie-policy</loc>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/smartshires/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/smartshires/en/</loc>
