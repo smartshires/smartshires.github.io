@@ -14,4 +14,4 @@ We have periodic online meetings every two weeks. If you would like to join, ple
 
 - Meeting on 27-28 November 2023 in Bologna
 - Meeting on 10 April 2024 in Torino (PoliTo - UniUrb)
-- Meeting on 16 April in Cesena (UniBo - UniUrb)
+- Meeting on 16 April 2024 in Cesena (UniBo - UniUrb)
