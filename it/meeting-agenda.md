@@ -6,8 +6,12 @@ ref: meeting-agenda
 permalink: /it/meeting-agenda
 ---
 
-Meeting on 27-28 November 2023
+# Online Meetings
 
-Meeting on 18 December 2023
+We have periodic online meetings every two weeks. If you would like to join, please send an email to [Prof. Stefano Ferretti](mailto:stefano.ferretti@uniurb.it)
 
-Meeting on 06 February 2024
+# In Presence Meetings
+
+- Meeting on 27-28 November 2023 in Bologna
+- Meeting on 10 April 2024 in Torino (PoliTo - UniUrb)
+- Meeting on 16 April in Cesena (UniBo - UniUrb)
