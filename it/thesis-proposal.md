@@ -16,3 +16,5 @@ networking" (Politecnico di Torino)
 - "Federated Learning and Blockchain Technologies" (Università di Bologna, Università di Urbino)
 
 - "Enhancing Trust in IoT Connectivity Environments (e.g., LoRaWAN) with DLTs" (Università di Bologna, Università di Urbino)
+
+- "Local data exchange moderated by data mules in Smart Shire environments" (Università della Calabria) 
