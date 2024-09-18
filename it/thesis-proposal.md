@@ -17,4 +17,6 @@ networking" (Politecnico di Torino)
 
 - "Enhancing Trust in IoT Connectivity Environments (e.g., LoRaWAN) with DLTs" (Università di Bologna, Università di Urbino)
 
-- "Local data exchange moderated by data mules in Smart Shire environments" (Università della Calabria) 
+- "Local data exchange moderated by data mules in Smart Shire environments" (Università della Calabria)
+
+- "Integrating SUMO and NS-3 through Distributed Co-Simulation Protocol" (Università della Calabria)
