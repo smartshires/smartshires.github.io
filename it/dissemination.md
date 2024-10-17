@@ -7,6 +7,8 @@ permalink: /it/dissemination
 ---
 
 ### Papers
+- L. Bedogni, S. Ferretti, "Smart Contract Coordinated Privacy Preserving Crowd-Sensing Campaigns", in Proc. of the IEEE Consumer Communications & Networking Conference (CCNC 2025), IEEE ComSoc, January 2025, Las Vegas, USA.
+- G. Aguzzi, M. Magnini, G.P. Salcuni, S. Ferretti, S. Montagna, "Applying Retrieval-Augmented Generation on Open LLMs for a Medical Chatbot Supporting Hypertensive Patients", in Proc. of the 23rd International Conference of the Italian Association for Artificial Intelligence, November 2024, Bolzano, Italy.
 - S. Ferretti, G. D'Angelo, V. Ghini, "On the Use of Heterogeneous Graph Neural Networks for Detecting Malicious Activities: a Case Study with Cryptocurrencies", in Proc. of the 4th International Workshop on Open Challenges in Online Social Networks - ACM Hypertext \& Social Media 2024, ACM, September 2024, Poznan, Poland.
 - M. Furini, M. Mariani, S. Montagna, S. Ferretti, "Conversational Skills of LLM-based Healthcare Chatbot for Personalized Communications", in Proc. of the International Conference on Information Technology for Social Good 2024, ACM, September 2024, Bremen, Germany.
 - L. Cassano, J. D'Abramo, S. Munir, S. Ferretti, "Trust and Resilience in Federated Learning Through Smart Contracts Enabled Decentralized Systems", in Proc. of the 7th IEEE International Conference on Blockchain (Blockchain 2024), IEEE, August 2024, Copenhagen, Denmark.
