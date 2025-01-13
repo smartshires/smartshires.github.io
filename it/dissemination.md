@@ -7,7 +7,8 @@ permalink: /it/dissemination
 ---
 
 ### Papers
-L. Serena, P. Manzoni, M. Marzolla, G. D'Angelo, S. Ferretti, "Incentivizing Crowdsensing in IoT through Micropayments: an Architecture and Simulation Study", in Proc. of the 40th ACM/SIGAPP Symposium On Applied Computing (SAC 2025), April 2025, Catania, Italy.
+- S. Ferretti, G. D'Angelo, V. Ghini, M. Tomassone, "Detecting Smart Contract Vulnerabilities using Transformers and LLMs", in Proc. of 6th Workshop on Blockchain theoRy and ApplicatIoNs (BRAIN 2025) - 23rd International Conference on Pervasive Computing and Communications (PerCom 2025), IEEE, March 2025, Washington (USA)
+- L. Serena, P. Manzoni, M. Marzolla, G. D'Angelo, S. Ferretti, "Incentivizing Crowdsensing in IoT through Micropayments: an Architecture and Simulation Study", in Proc. of the 40th ACM/SIGAPP Symposium On Applied Computing (SAC 2025), April 2025, Catania, Italy.
 - M. Rossini, S. Ferretti, "A Comparative Evaluation of Deep Learning Techniques for Smart Contract Vulnerability Classification", Distributed Ledger Technologies: Research and Practice, ACM, October 2024, accepted for publication.
 - L. Bedogni, S. Ferretti, "Smart Contract Coordinated Privacy Preserving Crowd-Sensing Campaigns", in Proc. of the IEEE Consumer Communications & Networking Conference (CCNC 2025), IEEE ComSoc, January 2025, Las Vegas, USA.
 - G. Aguzzi, M. Magnini, G.P. Salcuni, S. Ferretti, S. Montagna, "Applying Retrieval-Augmented Generation on Open LLMs for a Medical Chatbot Supporting Hypertensive Patients", in Proc. of the 23rd International Conference of the Italian Association for Artificial Intelligence, November 2024, Bolzano, Italy.
