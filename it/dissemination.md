@@ -7,6 +7,7 @@ permalink: /it/dissemination
 ---
 
 ### Papers
+- S. Ferretti, L. Cassano, G. Cialone, J. D'Abramo, F. Imboccioli, "Decentralized Coordination for Resilient Federated Learning: A Blockchain-based Approach with Smart Contracts and Decentralized Storage", Computer Communications, Elsevier, Feb 2025, accepted for publication.
 - S. Ferretti, G. D'Angelo, V. Ghini, M. Tomassone, "Detecting Smart Contract Vulnerabilities using Transformers and LLMs", in Proc. of 6th Workshop on Blockchain theoRy and ApplicatIoNs (BRAIN 2025) - 23rd International Conference on Pervasive Computing and Communications (PerCom 2025), IEEE, March 2025, Washington (USA)
 - L. Serena, P. Manzoni, M. Marzolla, G. D'Angelo, S. Ferretti, "Incentivizing Crowdsensing in IoT through Micropayments: an Architecture and Simulation Study", in Proc. of the 40th ACM/SIGAPP Symposium On Applied Computing (SAC 2025), April 2025, Catania, Italy.
 - M. Rossini, S. Ferretti, "A Comparative Evaluation of Deep Learning Techniques for Smart Contract Vulnerability Classification", Distributed Ledger Technologies: Research and Practice, ACM, October 2024, accepted for publication.
