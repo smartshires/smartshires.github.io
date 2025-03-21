@@ -7,6 +7,7 @@ permalink: /it/dissemination
 ---
 
 ### Papers
+- L. Bedogni, S. Ferretti, "Incentivizing Decentralized Privacy-Preserving Crowd-Sensing with Smart Contracts", in Proc. of Workshop on Sensing, Algorithms, and Intelligent Applications (SAIA-2025) - 2025 IEEE Symposium on Computers and Communications (ISCC), IEEE, July 2025.
 - S. Ferretti, L. Cassano, G. Cialone, J. D'Abramo, F. Imboccioli, "Decentralized Coordination for Resilient Federated Learning: A Blockchain-based Approach with Smart Contracts and Decentralized Storage", Computer Communications, Elsevier, Feb 2025, accepted for publication.
 - S. Ferretti, G. D'Angelo, V. Ghini, M. Tomassone, "Detecting Smart Contract Vulnerabilities using Transformers and LLMs", in Proc. of 6th Workshop on Blockchain theoRy and ApplicatIoNs (BRAIN 2025) - 23rd International Conference on Pervasive Computing and Communications (PerCom 2025), IEEE, March 2025, Washington (USA)
 - L. Serena, P. Manzoni, M. Marzolla, G. D'Angelo, S. Ferretti, "Incentivizing Crowdsensing in IoT through Micropayments: an Architecture and Simulation Study", in Proc. of the 40th ACM/SIGAPP Symposium On Applied Computing (SAC 2025), April 2025, Catania, Italy.
@@ -19,5 +20,6 @@ permalink: /it/dissemination
 - F. A. Pironti, F. Blefari, A. Furfaro, "Supporting C2C Communications in a Smart Shire Environment Using DLT-based Data Mules", in Proc. of The 11th International Conference on Future Internet of Things and Cloud (FiCloud 2024), August 2024, Wien, Austria.
 
 ### Presentations
+- S. Ferretti, organization and dissemination activities related to the Second International Workshop on Pervasive Computing Challenges in Trustable Crowdsensing Systems, IEEE Percom 2025, Washington DC, USA, March 2025
 - S. Ferretti, G. D'Angelo, V. Ghini, "On the Use of Heterogeneous Graph Neural Networks for Detecting Malicious Activities: a Case Study with Cryptocurrencies", Distributed Ledger Technologies Meeting: Multidisciplinary Aspects (DLT2024), Bologna, November 18-19 2024.
 - S. Ferretti, G. D’Angelo, A. Furfaro, P. Giaccone, “How Blockchain Technologies can Promote the Creation of Smart Services in Smart Shires”, 6th Distributed Ledger Technologies Workshop (DLT2024), Torino, May 14-15 2024
