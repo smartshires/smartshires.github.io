@@ -23,3 +23,4 @@ permalink: /it/dissemination
 - S. Ferretti, organization and dissemination activities related to the Second International Workshop on Pervasive Computing Challenges in Trustable Crowdsensing Systems, IEEE Percom 2025, Washington DC, USA, March 2025
 - S. Ferretti, G. D'Angelo, V. Ghini, "On the Use of Heterogeneous Graph Neural Networks for Detecting Malicious Activities: a Case Study with Cryptocurrencies", Distributed Ledger Technologies Meeting: Multidisciplinary Aspects (DLT2024), Bologna, November 18-19 2024.
 - S. Ferretti, G. D’Angelo, A. Furfaro, P. Giaccone, “How Blockchain Technologies can Promote the Creation of Smart Services in Smart Shires”, 6th Distributed Ledger Technologies Workshop (DLT2024), Torino, May 14-15 2024
+- F. Blefari, A. Furfaro, F. Pironti, "DLT-based Data Mules for C2C communication in Smart Shires", 7th Distributed Ledger Technologies Workshop (DLT2025), Pizzo Calabro (VV), June 9-14 2025
